@@ -22,7 +22,6 @@ div {
 h1 {
   padding-right: 8px;
   color: white;
-    Verdana, sans-serif;
   font-size: 32px;
 }
 </style>
